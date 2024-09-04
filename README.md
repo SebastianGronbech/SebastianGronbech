@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, Welcome!
+
+Hello! My name is Sebastian Grønbech. I am from University of Stavanger taking BS Cumputer Science.🏫
+
+- 🔭 I’m currently working on this page.
 
 <!--
 **SebastianGronbech/SebastianGronbech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
