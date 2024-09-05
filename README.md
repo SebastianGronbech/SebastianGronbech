@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome!
 
-Hello! My name is Sebastian Grønbech. I am from University of Stavanger taking BS Cumputer Science.🏫
+Hello! My name is Sebastian Grønbech. I am from University of Stavanger taking BS Computer science.🏫
 
 - 🔭 I’m currently working on this page.
 
